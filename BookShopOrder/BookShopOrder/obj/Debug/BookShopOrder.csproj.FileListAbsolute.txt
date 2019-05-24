@@ -1,0 +1,10 @@
+D:\Dotnet practice\BookShopOrder\BookShopOrder\bin\Debug\BookShopOrder.exe.config
+D:\Dotnet practice\BookShopOrder\BookShopOrder\bin\Debug\BookShopOrder.exe
+D:\Dotnet practice\BookShopOrder\BookShopOrder\bin\Debug\BookShopOrder.pdb
+D:\Dotnet practice\BookShopOrder\BookShopOrder\obj\Debug\BookShopOrder.csprojAssemblyReference.cache
+D:\Dotnet practice\BookShopOrder\BookShopOrder\obj\Debug\BookShopOrder.Form1.resources
+D:\Dotnet practice\BookShopOrder\BookShopOrder\obj\Debug\BookShopOrder.Properties.Resources.resources
+D:\Dotnet practice\BookShopOrder\BookShopOrder\obj\Debug\BookShopOrder.csproj.GenerateResource.cache
+D:\Dotnet practice\BookShopOrder\BookShopOrder\obj\Debug\BookShopOrder.csproj.CoreCompileInputs.cache
+D:\Dotnet practice\BookShopOrder\BookShopOrder\obj\Debug\BookShopOrder.exe
+D:\Dotnet practice\BookShopOrder\BookShopOrder\obj\Debug\BookShopOrder.pdb

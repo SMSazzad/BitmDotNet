@@ -1,0 +1,10 @@
+D:\Dotnet practice\BookShopApp\BookShopApp\bin\Debug\BookShopApp.exe.config
+D:\Dotnet practice\BookShopApp\BookShopApp\bin\Debug\BookShopApp.exe
+D:\Dotnet practice\BookShopApp\BookShopApp\bin\Debug\BookShopApp.pdb
+D:\Dotnet practice\BookShopApp\BookShopApp\obj\Debug\BookShopApp.csprojAssemblyReference.cache
+D:\Dotnet practice\BookShopApp\BookShopApp\obj\Debug\BookShopApp.form1.resources
+D:\Dotnet practice\BookShopApp\BookShopApp\obj\Debug\BookShopApp.Properties.Resources.resources
+D:\Dotnet practice\BookShopApp\BookShopApp\obj\Debug\BookShopApp.csproj.GenerateResource.cache
+D:\Dotnet practice\BookShopApp\BookShopApp\obj\Debug\BookShopApp.csproj.CoreCompileInputs.cache
+D:\Dotnet practice\BookShopApp\BookShopApp\obj\Debug\BookShopApp.exe
+D:\Dotnet practice\BookShopApp\BookShopApp\obj\Debug\BookShopApp.pdb
