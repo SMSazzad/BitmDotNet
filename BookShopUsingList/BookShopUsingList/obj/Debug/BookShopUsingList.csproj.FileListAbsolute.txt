@@ -1,0 +1,10 @@
+D:\Dotnet Practice\BookShopUsingList\BookShopUsingList\bin\Debug\BookShopUsingList.exe.config
+D:\Dotnet Practice\BookShopUsingList\BookShopUsingList\bin\Debug\BookShopUsingList.exe
+D:\Dotnet Practice\BookShopUsingList\BookShopUsingList\bin\Debug\BookShopUsingList.pdb
+D:\Dotnet Practice\BookShopUsingList\BookShopUsingList\obj\Debug\BookShopUsingList.csprojAssemblyReference.cache
+D:\Dotnet Practice\BookShopUsingList\BookShopUsingList\obj\Debug\BookShopUsingList.Form1.resources
+D:\Dotnet Practice\BookShopUsingList\BookShopUsingList\obj\Debug\BookShopUsingList.Properties.Resources.resources
+D:\Dotnet Practice\BookShopUsingList\BookShopUsingList\obj\Debug\BookShopUsingList.csproj.GenerateResource.cache
+D:\Dotnet Practice\BookShopUsingList\BookShopUsingList\obj\Debug\BookShopUsingList.csproj.CoreCompileInputs.cache
+D:\Dotnet Practice\BookShopUsingList\BookShopUsingList\obj\Debug\BookShopUsingList.exe
+D:\Dotnet Practice\BookShopUsingList\BookShopUsingList\obj\Debug\BookShopUsingList.pdb
