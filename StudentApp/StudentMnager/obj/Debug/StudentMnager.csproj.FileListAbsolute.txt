@@ -1,0 +1,11 @@
+D:\Dotnet Practice\StudentApp\StudentMnager\bin\Debug\StudentMnager.dll
+D:\Dotnet Practice\StudentApp\StudentMnager\bin\Debug\StudentMnager.pdb
+D:\Dotnet Practice\StudentApp\StudentMnager\bin\Debug\StudentApp.Model.dll
+D:\Dotnet Practice\StudentApp\StudentMnager\bin\Debug\StudentRepository.dll
+D:\Dotnet Practice\StudentApp\StudentMnager\bin\Debug\StudentApp.Model.pdb
+D:\Dotnet Practice\StudentApp\StudentMnager\bin\Debug\StudentRepository.pdb
+D:\Dotnet Practice\StudentApp\StudentMnager\obj\Debug\StudentMnager.csprojAssemblyReference.cache
+D:\Dotnet Practice\StudentApp\StudentMnager\obj\Debug\StudentMnager.csproj.CoreCompileInputs.cache
+D:\Dotnet Practice\StudentApp\StudentMnager\obj\Debug\StudentMnager.csproj.CopyComplete
+D:\Dotnet Practice\StudentApp\StudentMnager\obj\Debug\StudentMnager.dll
+D:\Dotnet Practice\StudentApp\StudentMnager\obj\Debug\StudentMnager.pdb

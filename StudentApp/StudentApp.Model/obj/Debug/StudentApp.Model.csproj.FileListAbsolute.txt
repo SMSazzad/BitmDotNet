@@ -1,0 +1,6 @@
+D:\Dotnet Practice\StudentApp\StudentApp.Model\bin\Debug\StudentApp.Model.dll
+D:\Dotnet Practice\StudentApp\StudentApp.Model\bin\Debug\StudentApp.Model.pdb
+D:\Dotnet Practice\StudentApp\StudentApp.Model\obj\Debug\StudentApp.Model.csprojAssemblyReference.cache
+D:\Dotnet Practice\StudentApp\StudentApp.Model\obj\Debug\StudentApp.Model.csproj.CoreCompileInputs.cache
+D:\Dotnet Practice\StudentApp\StudentApp.Model\obj\Debug\StudentApp.Model.dll
+D:\Dotnet Practice\StudentApp\StudentApp.Model\obj\Debug\StudentApp.Model.pdb

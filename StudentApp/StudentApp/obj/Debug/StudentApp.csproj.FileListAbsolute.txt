@@ -1,0 +1,17 @@
+D:\Dotnet Practice\StudentApp\StudentApp\obj\Debug\StudentApp.csprojAssemblyReference.cache
+D:\Dotnet Practice\StudentApp\StudentApp\obj\Debug\StudentApp.Properties.Resources.resources
+D:\Dotnet Practice\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.GenerateResource.cache
+D:\Dotnet Practice\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CoreCompileInputs.cache
+D:\Dotnet Practice\StudentApp\StudentApp\obj\Debug\StudentApp.Form1.resources
+D:\Dotnet Practice\StudentApp\StudentApp\bin\Debug\StudentApp.exe.config
+D:\Dotnet Practice\StudentApp\StudentApp\bin\Debug\StudentApp.exe
+D:\Dotnet Practice\StudentApp\StudentApp\bin\Debug\StudentApp.pdb
+D:\Dotnet Practice\StudentApp\StudentApp\bin\Debug\StudentApp.Model.dll
+D:\Dotnet Practice\StudentApp\StudentApp\bin\Debug\StudentMnager.dll
+D:\Dotnet Practice\StudentApp\StudentApp\bin\Debug\StudentRepository.dll
+D:\Dotnet Practice\StudentApp\StudentApp\bin\Debug\StudentApp.Model.pdb
+D:\Dotnet Practice\StudentApp\StudentApp\bin\Debug\StudentMnager.pdb
+D:\Dotnet Practice\StudentApp\StudentApp\bin\Debug\StudentRepository.pdb
+D:\Dotnet Practice\StudentApp\StudentApp\obj\Debug\StudentApp.csproj.CopyComplete
+D:\Dotnet Practice\StudentApp\StudentApp\obj\Debug\StudentApp.exe
+D:\Dotnet Practice\StudentApp\StudentApp\obj\Debug\StudentApp.pdb
