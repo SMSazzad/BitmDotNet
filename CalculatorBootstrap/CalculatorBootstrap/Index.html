@@ -1,0 +1,126 @@
+﻿<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <style>
+        .result {
+            width: 450px;
+        }
+    </style>
+
+
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+
+
+</head>
+<body>
+
+
+    <div style=text-align:center;background-color:powderblue>
+        <h1>Simple calculator</h1>
+    </div>
+
+
+
+    <div class="container">
+        <form>
+            <div class="row" style=background-color:darkCyan>
+
+                <div class="form-group col-md-6">
+                    <label for="firstNumber">First Number</label>
+                    <input type="text" class="form-control" id="firstNumber" aria-describedby="emailHelp" placeholder="First Number">
+                </div>
+
+
+                <div class="form-group col-md-6">
+                    <label for="secondNumber">Second Number</label>
+                    <input type="text" class="form-control" id="secondNumber" placeholder="Second Number">
+                </div>
+
+                <div class="container">
+                    <div class="row">
+                        <div class="col-lg-12 text-center"> Result </div>
+                        <div class="  col-lg-12 text-center"> <input class="result" id="result" type="text" /> </div>
+
+                    </div>
+                </div>
+
+
+                <div class="col-md-1"></div>
+
+                <div class="form-group col-md-3">
+                    <input type="radio" id="add"/>
+                    <label for="add">Add</label>
+                </div>
+
+                <div class="form-group col-md-3">
+                    <input type="radio" id="sub">
+                    <label for="sub">Sub</label>
+                </div>
+
+                <div class="form-group col-md-3">
+                    <input type="radio" id="mul">
+                    <label for="mul">Mul</label>
+                </div>
+
+                <div class="form-group col-md-2">
+                    <input type="radio" id="div">
+                    <label for="div">Div</label>
+                </div>
+
+                <div class="col-md-2"></div>
+
+            </div>
+        </form>
+
+    </div>
+    <script src="Scripts/jquery-3.0.0.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            $("#add").click(function () {
+
+                //($("#gridCheck").prop("checked") !== true)
+                var firstNum = parseFloat($("#firstNumber").val());
+                var secondNum = parseFloat($("#secondNumber").val());
+                var result = firstNum + secondNum;
+                $("#result").val(result);
+            });
+
+            $("#sub").click(function () {
+
+                //($("#gridCheck").prop("checked") !== true)
+                var firstNum = parseFloat($("#firstNumber").val());
+                var secondNum = parseFloat($("#secondNumber").val());
+                var result = firstNum - secondNum;
+                $("#result").val(result);
+            });
+
+            $("#mul").click(function () {
+
+                //($("#gridCheck").prop("checked") !== true)
+                var firstNum = parseFloat($("#firstNumber").val());
+                var secondNum =parseFloat($("#secondNumber").val());
+                var result = firstNum * secondNum;
+                $("#result").val(result);
+            });
+
+            $("#div").click(function () {
+
+                //($("#gridCheck").prop("checked") !== true)
+                var firstNum = parseFloat($("#firstNumber").val());
+                var secondNum = parseFloat($("#secondNumber").val());
+                var result = firstNum / secondNum;
+                $("#result").val(result);
+            });
+
+
+
+        });
+
+
+    </script>
+</body >
+</html >
