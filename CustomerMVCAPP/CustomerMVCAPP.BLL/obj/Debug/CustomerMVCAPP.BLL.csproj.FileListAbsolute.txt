@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.BLL\bin\Debug\CustomerMVCAPP.BLL.dll
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.BLL\bin\Debug\CustomerMVCAPP.BLL.pdb
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.BLL\bin\Debug\CustomerMVCAPP.Models.dll
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.BLL\bin\Debug\CustomerMVCAPP.Repository.dll
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.BLL\bin\Debug\CustomerMVCAPP.Models.pdb
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.BLL\bin\Debug\CustomerMVCAPP.Repository.pdb
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.BLL\obj\Debug\CustomerMVCAPP.BLL.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.BLL\obj\Debug\CustomerMVCAPP.BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.BLL\obj\Debug\CustomerMVCAPP.BLL.csproj.CopyComplete
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.BLL\obj\Debug\CustomerMVCAPP.BLL.dll
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.BLL\obj\Debug\CustomerMVCAPP.BLL.pdb
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.BLL\bin\Debug\CustomerMVCAPP.DatabaseContext.dll
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.BLL\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.BLL\bin\Debug\CustomerMVCAPP.Repository.dll.config
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.BLL\bin\Debug\CustomerMVCAPP.DatabaseContext.pdb
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.BLL\bin\Debug\CustomerMVCAPP.DatabaseContext.dll.config
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.BLL\bin\Debug\EntityFramework.xml

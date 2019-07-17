@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.Models\bin\Debug\CustomerMVCAPP.Models.dll
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.Models\bin\Debug\CustomerMVCAPP.Models.pdb
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.Models\obj\Debug\CustomerMVCAPP.Models.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.Models\obj\Debug\CustomerMVCAPP.Models.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.Models\obj\Debug\CustomerMVCAPP.Models.dll
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.Models\obj\Debug\CustomerMVCAPP.Models.pdb

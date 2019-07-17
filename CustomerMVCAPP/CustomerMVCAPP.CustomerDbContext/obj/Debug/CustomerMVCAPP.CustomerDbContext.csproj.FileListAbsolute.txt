@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.CustomerDbContext\bin\Debug\CustomerMVCAPP.CustomerDbContext.dll.config
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.CustomerDbContext\bin\Debug\CustomerMVCAPP.CustomerDbContext.dll
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.CustomerDbContext\bin\Debug\CustomerMVCAPP.CustomerDbContext.pdb
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.CustomerDbContext\bin\Debug\CustomerMVCAPP.Models.dll
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.CustomerDbContext\bin\Debug\EntityFramework.dll
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.CustomerDbContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.CustomerDbContext\bin\Debug\CustomerMVCAPP.Models.pdb
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.CustomerDbContext\bin\Debug\EntityFramework.xml
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.CustomerDbContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.CustomerDbContext\obj\Debug\CustomerMVCAPP.CustomerDbContext.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.CustomerDbContext\obj\Debug\CustomerMVCAPP.CustomerDbContext.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.CustomerDbContext\obj\Debug\CustomerMVCAPP.CustomerDbContext.csproj.CopyComplete
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.CustomerDbContext\obj\Debug\CustomerMVCAPP.CustomerDbContext.dll
+C:\Users\HP\source\repos\CustomerMVCAPP\CustomerMVCAPP.CustomerDbContext\obj\Debug\CustomerMVCAPP.CustomerDbContext.pdb
